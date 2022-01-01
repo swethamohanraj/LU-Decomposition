@@ -69,6 +69,7 @@ print(x)
 
 
 (ii):
+
 ![lu dec2](https://user-images.githubusercontent.com/94228215/147852083-779b79fb-b71b-441c-b3bb-f094201494e8.png)
 
 
