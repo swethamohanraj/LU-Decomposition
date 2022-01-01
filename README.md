@@ -64,6 +64,13 @@ print(x)
 ```
 
 ## Output:
+(i):
+![lu dec](https://user-images.githubusercontent.com/94228215/147852066-767386bc-8425-4d15-b94a-b01842723365.png)
+
+
+(ii):
+![lu dec2](https://user-images.githubusercontent.com/94228215/147852083-779b79fb-b71b-441c-b3bb-f094201494e8.png)
+
 
 
 
