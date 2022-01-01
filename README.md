@@ -11,7 +11,7 @@ To write a program to find the LU Decomposition of a matrix.
 1. naveen
 2. swetha
 3. maths program
-4. 
+4. swetha
 
 ## Program:
 (i) To find the L and U matrix
