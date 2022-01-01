@@ -27,7 +27,7 @@ Step 2: Using "from scipy.linalg import lu_factor,lu_solve" to import scipy modu
 
 Step 3: Using "lu,piv=lu_factor(a)" 
 
-Step 4: 
+Step 4: print the result matrix (X matrix)
 
 Step 5: End of the Program.SWEWTHA
 
