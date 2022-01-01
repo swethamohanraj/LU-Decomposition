@@ -29,7 +29,7 @@ Step 3: Using "lu,piv=lu_factor(a)"
 
 Step 4: print the result matrix (X matrix)
 
-Step 5: End of the Program.SWEWTHA
+Step 5: End of the Program.
 
 ## Program:
 (i) To find the L and U matrix
